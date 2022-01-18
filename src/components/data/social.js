@@ -1,0 +1,22 @@
+export const SocialData=[
+    {
+        platform:"Intagram",
+        icon:"https://upload.wikimedia.org/wikipedia/commons/8/82/INSTAGRAM.jpg",
+        link:"www.instagram.com",
+    },
+    {
+        platform:"Facebook",
+        icon:"https://upload.wikimedia.org/wikipedia/commons/8/82/Facebook_icon.jpg",
+        link:"www.facebook.com",
+    },
+    {
+        platform:"Linkedin",
+        icon:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/LINKEDIN.jpg/640px-LINKEDIN.jpg",
+        link:"https://www.linkedin.com/in/ankit-chhetri-9560bb189/",
+    },
+    {
+        platform:"Github",
+        icon:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/640px-Octicons-mark-github.svg.png",
+        link:"https://github.com/9064444169",
+    },
+];
